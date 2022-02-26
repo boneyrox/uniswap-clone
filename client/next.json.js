@@ -1,0 +1,3 @@
+{
+    swMinify: false
+}
